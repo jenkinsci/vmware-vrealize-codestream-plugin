@@ -31,10 +31,10 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
-    <url>http://github.com/jenkinsci/${project.artifactId}-plugin</url>
-    <tag>vmware-vrealize-codestream-plugin-1.0</tag>
+    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}.git</developerConnection>
+    <url>http://github.com/jenkinsci/${project.artifactId}</url>
+    <tag>HEAD</tag>
   </scm>
   <repositories>
     <repository>

@@ -17,7 +17,7 @@
 
   <name>Vmware vRealize CodeStream Plugin</name>
   <description>Plugin to invoke vRealize CodeStream pipeline execution api</description>
-  <url></url>
+  <url>https://wiki.jenkins-ci.org/display/JENKINS/Vmware+vRealize+CodeStream+Plugin</url>
   <licenses>
     <license>
       <name>MIT License</name>
@@ -26,18 +26,16 @@
   </licenses>
   <developers>
     <developer>
-      <id>rsaraf</id>
+      <id>rishisaraf11</id>
       <name>Rishi Saraf</name>
-      <email>rsaraf@vmware.com</email>
+      <email>rishisaraf11@gmail.com</email>
     </developer>
   </developers>
-  <!-- Assuming you want to host on @jenkinsci:
   <scm>
     <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
     <url>http://github.com/jenkinsci/${project.artifactId}-plugin</url>
   </scm>
-   -->
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>

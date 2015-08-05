@@ -1,3 +1,5 @@
+[![Build Status](https://jenkins.ci.cloudbees.com/job/plugins/job/vmware-vrealize-codestream-plugin/badge/icon)](https://jenkins.ci.cloudbees.com/job/plugins/job/vmware-vrealize-codestream-plugin)
+
 # Jenkins CodeStream Plugin
 ---------------------
 This plugin integrates [VMware vRealize CodeStream][] to [Jenkins][]. With this plugin you can run any vRealize CodeStream activated pipeline.
@@ -52,6 +54,10 @@ To install:
 1. copy the resulting ./target/vmware-vrealize-codestream-plugin.hpi file to the $JENKINS_HOME/plugins directory. Don't forget to restart Jenkins afterwards.
 
 2. or use the plugin management console (http://example.com:8080/pluginManager/advanced) to upload the hpi file. You have to restart Jenkins in order to find the pluing in the installed plugins list.
+
+Read More
+----------
+https://wiki.jenkins-ci.org/display/JENKINS/Vmware+vRealize+CodeStream+Plugin
 
 License
 ----------

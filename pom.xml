@@ -11,7 +11,7 @@
     </parent>
     <groupId>com.vmware.vcac</groupId>
     <artifactId>vmware-vrealize-codestream</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>hpi</packaging>
 
     <name>Vmware vRealize CodeStream Plugin</name>

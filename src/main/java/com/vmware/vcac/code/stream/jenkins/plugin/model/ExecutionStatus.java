@@ -14,6 +14,7 @@ public enum ExecutionStatus implements Serializable {
     IN_PROGRESS,
     PAUSED,
     DELETED,
+    SKIPPED,
     CANCELED;
 
     public String value() {

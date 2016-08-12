@@ -30,11 +30,16 @@
       <name>Rishi Saraf</name>
       <email>rishisaraf11@gmail.com</email>
     </developer>
+            <developer>
+            <id>inkysea</id>
+            <name>Kris Thieler</name>
+            <email>inkysea_mail@gmail.com</email>
+    </developer>
   </developers>
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}.git</developerConnection>
-    <url>http://github.com/jenkinsci/${project.artifactId}</url>
+    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git/connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.giteveloperConnection>
+    <url>http://github.com/jenkinsci/${project.artifactId}-plugin</url>
     <tag>HEAD</tag>
   </scm>
   <repositories>
